@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Esme-22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Esme-22/Esme-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola, soy Esmeralda
+Mis hobbies son jugar fútbol, investigar acerca de la abogacía, leer libros acerca de ciencia ficción, documentales y de reflexión 
+Me gusta mucho la tecnología y conocer las multiples aplicaciones y funciones que podemos realizar a través de los aparatos electrónicos
